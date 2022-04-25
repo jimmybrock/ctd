@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars API</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-6 offset-md-3">
+            <div class="page-header">
+              <h1>Star Wars API</h1>
+              <hr/>
+            </div>
+      
+      
+            <form class="search-form">
+              <h3>Search</h3>
+      
+              <div class="form-group">
+                <input type="text" id="search-query" class="form-control">
+                </input>
+      
+                <select id="search-category">
+                  <option value="people">people</option>
+                  <option value="starships">starships</option>
+                </select>
+              </div>
+      
+              <button class="btn btn-primary search">Search</button>
+            </form>
+      
+            <hr/>
+      
+            <div class="results row">
+            </div>
+          </div>
+        </div>
+      </div>
+    <script src="script.js"></script>
+</body>
+</html>
