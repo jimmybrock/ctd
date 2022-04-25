@@ -1,10 +1,10 @@
 
 # Starwars API Search
 
-![Node version](https://img.shields.io/badge/Node-14.16.1-black)
-![NPM version](https://img.shields.io/badge/NPM-7.21.0-green)
-![Typescript](https://img.shields.io/badge/Typescript-4.2.4-blue)
-![DEV](https://img.shields.io/badge/Dev-0.1-orange)
+![HTML version](https://img.shields.io/badge/HTML5-blue)
+![CSS version](https://img.shields.io/badge/CSS3-green)
+![Bootstrap version](https://img.shields.io/badge/Bootstrap-green)
+![JQuery](https://img.shields.io/badge/JQuery-red)
 
 ## Code the Dream - Prework
 
